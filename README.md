@@ -1,14 +1,14 @@
 # SVGProject
 C++ project working with svg files. The application works with only square, circle and line figures. 
 Functionality:
-print - prints information for all figures that are in the file
-create - creates new figure
-erase - deletes a figure
-translate - translates one figure or all figures by given vertical and horizontal values
-within - prints all figures which are in given area. The area can be either square or circle
-open - open existing svg file
-save as - saves file with name chosen by the user
-save - saves the changes in the current file
+* print - prints information for all figures that are in the file
+* create - creates new figure
+* erase - deletes a figure
+* translate - translates one figure or all figures by given vertical and horizontal values
+* within - prints all figures which are in given area. The area can be either square or circle
+* open - open existing svg file
+* save as - saves file with name chosen by the user
+* save - saves the changes in the current file
 
 Example of the application:
 
